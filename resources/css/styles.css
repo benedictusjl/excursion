@@ -4,11 +4,27 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+
+/** HEADINGS **/
 .header--main {
     color: white;
     font-weight: normal;
     font-size: 50px;
 }
+
+.header--secondary {
+    color: white;
+    font-size: 42;
+    font-weight: 300;
+}
+
+.header--sub-header {
+    color: grey;
+    font-size: 21;
+    
+}
+
+/** LINKS **/
 
 .link--cta {
     font-size: 16px;
